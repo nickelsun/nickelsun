@@ -1,2 +1,4 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hello!</h1>
+<p>Here are small projects I make to train myself in web development.</p>  
+
 
