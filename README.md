@@ -7,9 +7,7 @@
   <li><a href="https://nickelsun.github.io/MyTinyTwitter/">My Tiny Twitter</a></li>
   <li><a href="https://nickelsun.github.io/MyTunes/">My Tunes</a></li>
   <li><a href="https://nickelsun.github.io/ElementsOfWeb/">Elements of Web</a></li>
-  
+  <li><a href="https://nickelsun.github.io/calc/">Calc</a></li>
   <li><a href="https://github.com/nickelsun/sudoku">Sudoku game</a></li>
-  
-  <li><a href="https://nickelsun.github.io/Test/">Test</a></li>
 </ul>
 
