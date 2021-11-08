@@ -10,6 +10,6 @@
   
   <li><a href="https://github.com/nickelsun/sudoku">Sudoku game</a></li>
   
-  <li><a href="https://nickelsun.github.io/test/">Test</a></li>
+  <li><a href="https://nickelsun.github.io/Test/">Test</a></li>
 </ul>
 
