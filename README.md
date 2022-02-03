@@ -9,5 +9,6 @@
   <li><a href="https://nickelsun.github.io/ElementsOfWeb/">Elements of Web</a></li>
   <li><a href="https://nickelsun.github.io/calc/">Calculator</a></li>
   <li><a href="https://github.com/nickelsun/sudoku">Sudoku game</a></li>
+  <li><a href="nickelsun.atwebpages.com">Simple Cafeesa Site (built on WordPress)</a></li>
 </ul>
 
