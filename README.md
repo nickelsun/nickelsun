@@ -10,5 +10,6 @@
   <li><a href="https://nickelsun.github.io/calc/">Calculator</a></li>
   <li><a href="https://github.com/nickelsun/sudoku">Sudoku game</a></li>
   <li><a href="http://nickelsun.atwebpages.com">Simple Cafeesa Site (built on WordPress)</a></li>
+  <li><a href="http://nickelsunrealestate.atwebpages.com">Simple Real Estate Agency WebPage (built on WordPress)</a></li>
 </ul>
 
